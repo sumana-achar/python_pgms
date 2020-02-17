@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/sumana-achar/new_python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sumana-achar/test_git.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Sumana Achar\PycharmProjects" />
