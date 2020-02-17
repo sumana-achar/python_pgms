@@ -1,3 +1,2 @@
-# python_pgms
-#python programs learning
+# python_pgm
 print("welcome to GITHUB learning")
